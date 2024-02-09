@@ -1,24 +1,8 @@
 # YummyHub - Reacting to Your Hunger, One Byte at a Time! 😋
-I don't think someone would've added this many details to the Swiggy clone during #NamasteReact NamasteDev.com check it out!!😎 don't worry no AI post...
-
-
-
-### Building TandooriJs - Reacting to Your Hunger, One Byte at a Time! 🔥
 
 Yummyhub is a food ordering platform made using the combined powers of Parcel bundler + React.js + Tailwind CSS.
 
-yup, Parcel is the Beast lol 😂 have a look at this Akshay Saini 🚀
-
-currently working on the react-router-dom part of it...
-
-
-
-### GitHub Repo: https://github.com/thekiranmahajan/Yummyhub
-
-### Vercel Demo: https://Yummyhub.vercel.app/
-
-
-## 🐼FEATURES🐼
+## 🐼FEATURES
 
 🍭 Used the industry standard folder structure with relevant file and folder nomenclature to make the codebase modular and meaningful. 
 
@@ -45,29 +29,3 @@ currently working on the react-router-dom part of it...
 🍭 Harnessed the powers of react-router-dom for smooth routing using Link and not traditional anchor tag to avoid default behaviors.
 
 🍭 There are more others to explore and more I'll add soon. to make the most concise, that's it. 
-
-
-
-### ⭐⭐⭐ Try to give a star please if you following my repo or liked it 🙏🏻
-
- Also, I'm ready to help you if you've any doubts do ask I'll try my best 😊 and thanks to Arvind Pandit Prajapati for helping me for carousel logic 
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
-
-
-
-#Some #Non #Related #Stuff #For #Post #Reach 😅
-
-#WebDevelopment #ReactJS #TailwindCSS #SwiggyClone #Namaste #AkshaySaini 
