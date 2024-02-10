@@ -5,7 +5,7 @@ import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import CircularBtn from "./CircularBtn";
 
 const Carousel = ({ carouselCards }) => {
-  if (!carouselCards) return null; // when api call on small screens remove Carousel
+  if (!carouselCards) return null; 
   const carousel = useRef(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [maxIndex, setMaxIndex] = useState(0);
