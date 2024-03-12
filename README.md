@@ -2,7 +2,7 @@
 
 Yummyhub is a food ordering platform made using the combined powers of Parcel bundler + React.js + Tailwind CSS.
 
-## 🐼FEATURES
+## 🐼FEATURES:
 
 🍭 Used the industry standard folder structure with relevant file and folder nomenclature to make the codebase modular and meaningful. 
 
