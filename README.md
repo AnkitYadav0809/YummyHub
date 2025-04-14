@@ -12,12 +12,10 @@ Yummyhub is a food ordering platform made using the combined powers of Parcel bu
 
 🍭 Successfully implemented Multi-Image Carousel *without* using any external library. Most of the time I skipped npm packages to make it more challenging.
 
-🍭 Fully functional Search functionality with Enter key press to search logic it just works smoothly and filters out the restaurants in a case-insensitive manner🔥
+🍭 Fully functional Search functionality with Enter key press to search logic it just works smoothly and filters out the restaurants in a case-insensitive manner🔥.
 
-🍭 Custom hook for fetching RestaurantMenu data from Swiggy's API
+🍭 Custom hook for fetching RestaurantMenu data from Swiggy's API.
 
 🍭 Efficient error handling by various methods such as TryCatch with different error messages to improve UX.
 
 🍭 All UI elements are responsive as well as very user-interactive made possible Tailwind CSS.
-
-
